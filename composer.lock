@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "d874d28db002151daaf3f4ffffe9be74",
+    "packages": [
+        {
+            "name": "trishulapi/core",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/trishulapi/core.git",
+                "reference": "b2af0ccb0c122e3cc37818940e7da5ee44c470a9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/trishulapi/core/zipball/b2af0ccb0c122e3cc37818940e7da5ee44c470a9",
+                "reference": "b2af0ccb0c122e3cc37818940e7da5ee44c470a9",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TrishulApi\\Core\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Shyam Dubey",
+                    "email": "shyam0853@gmail.com"
+                }
+            ],
+            "description": "A Core Concept Behind TrishulApi framework.",
+            "support": {
+                "issues": "https://github.com/trishulapi/core/issues",
+                "source": "https://github.com/trishulapi/core/tree/v1.0.0"
+            },
+            "time": "2025-06-03T11:48:13+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
